@@ -1,7 +1,7 @@
 # Simple OPENCV Hand Tracker
 Here's a simple implementation of a hand tracker made with Python, OpenCV, and Mediapipe.
 
-![previewimage](images\quickHandTrackPReview.png)
+![previewimage](https://github.com/vltmedia/SimpleOpenCVHandTracker/blob/master/images/quickHandTrackPReview.png?raw=true)
 
 # Results:
 Any hands in the scene will have a bone overlay showing each bone, and joint. User can then apply the rotation per join onto a robot, 3D object/character, or anything else.
